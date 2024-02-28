@@ -1,0 +1,5 @@
+*.pt
+*.db
+_pycache_
+*.png
+*.jpg
