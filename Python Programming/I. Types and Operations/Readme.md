@@ -19,3 +19,4 @@
 ## Notebook list
 - Introduction: Python Object Types
 - Numeric Types
+- Dynamic Typing Interlude
