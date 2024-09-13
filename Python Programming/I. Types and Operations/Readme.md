@@ -15,3 +15,7 @@
 - Boolean
 - types
 - None
+
+## Notebook list
+- Introduction: Python Object Types
+- Numeric Types
