@@ -20,3 +20,4 @@
 - Introduction: Python Object Types
 - Numeric Types
 - Dynamic Typing Interlude
+- Strings: Part I
