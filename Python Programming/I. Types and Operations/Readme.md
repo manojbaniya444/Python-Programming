@@ -21,3 +21,5 @@
 - Numeric Types
 - Dynamic Typing Interlude
 - Strings: Part I
+- Strings: Part II
+- Lists
