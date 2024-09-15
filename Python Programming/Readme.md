@@ -11,3 +11,4 @@ This contains all the concepts of Python Programminf from basic to advance level
 ## Part II: Statements and Syntax
 1. Assignment and Introduction
 2. If/else and syntax rule
+3. While and For loop
