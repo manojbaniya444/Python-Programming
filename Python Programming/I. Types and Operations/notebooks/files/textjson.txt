@@ -1,0 +1,11 @@
+{
+       "name": {
+              "fist": "Jane",
+              "last": "Smith"
+       },
+       "job": [
+              "dev",
+              "mgr"
+       ],
+       "age": 20
+}

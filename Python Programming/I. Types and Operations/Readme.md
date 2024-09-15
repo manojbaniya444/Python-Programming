@@ -23,3 +23,6 @@
 - Strings: Part I
 - Strings: Part II
 - Lists
+- Dictionaries
+- Tuples
+- Files
