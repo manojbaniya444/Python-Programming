@@ -7,3 +7,7 @@ This contains all the concepts of Python Programminf from basic to advance level
 3. Strings
 4. List and Dictionaries
 5. Tuple and File
+
+## Part II: Statements and Syntax
+1. Assignment and Introduction
+2. If/else and syntax rule
