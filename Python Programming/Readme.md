@@ -12,3 +12,7 @@ This contains all the concepts of Python Programminf from basic to advance level
 1. Assignment and Introduction
 2. If/else and syntax rule
 3. While and For loop
+4. Iterations and Comprehensions
+5. Documentation Interlude
+
+## Part III: Functions and Generator
