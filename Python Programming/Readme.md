@@ -16,3 +16,4 @@ This contains all the concepts of Python Programminf from basic to advance level
 5. Documentation Interlude
 
 ## Part III: Functions and Generator
+1. Function Basic (Scope, calling)
