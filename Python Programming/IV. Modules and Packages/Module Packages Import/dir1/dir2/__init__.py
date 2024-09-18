@@ -1,0 +1,1 @@
+print("Init of dir2")
