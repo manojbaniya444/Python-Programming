@@ -25,3 +25,5 @@ This contains all the concepts of Python Programminf from basic to advance level
 - Basic import and from
 - Importing modules, reload
 - Module Packages
+
+## Part V: Classes and OOP
