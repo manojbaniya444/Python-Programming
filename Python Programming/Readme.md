@@ -27,3 +27,6 @@ This contains all the concepts of Python Programminf from basic to advance level
 - Module Packages
 
 ## Part V: Classes and OOP
+- Basic concept
+- Inheritance
+- Operator Overloading
