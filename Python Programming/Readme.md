@@ -30,3 +30,4 @@ This contains all the concepts of Python Programminf from basic to advance level
 - Basic concept
 - Inheritance
 - Operator Overloading
+- More on class OOP
