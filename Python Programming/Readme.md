@@ -31,3 +31,5 @@ This contains all the concepts of Python Programminf from basic to advance level
 - Inheritance
 - Operator Overloading
 - More on class OOP
+
+## Part VI. Exeption and Tools
