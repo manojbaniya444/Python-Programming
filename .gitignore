@@ -1,6 +1,6 @@
 *.pt
 *.db
-_pycache_
+__pycache__
 *.png
 *.jpg
 *.jpeg
