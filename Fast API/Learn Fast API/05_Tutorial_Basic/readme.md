@@ -1,6 +1,7 @@
 ## Fast API tutorial
 This contains begineer Fast API tutorial.
 
+A simple api with route "/" GET method.
 ```python
 # create a simple api
 from fastapi import FastAPI
@@ -11,9 +12,9 @@ app = FastAPI()
 async def root(): # can use async or normal
     return {"message": "Hello World"}
 ```
-Run the app with `fastapi dev main.py` usin g`fastapi` CLI tool.
+Run the app with `fastapi dev main.py` usin g`fastapi` CLI tool need to install.
 
-Now the app should run in `localhost:8000`.
+Now the app should run in `localhost:8000` by default.
 
 We can see API docs in `http://localhost:8000/docs`
 
