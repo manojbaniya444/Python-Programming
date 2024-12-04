@@ -63,3 +63,8 @@ Request: `/items/item_name?token=jessica` and Header `x-token: value`.
     "message": "Updating admin"
 }
 ```
+
+## Running the app in container
+After creating the file build the image using `docker build -t fastapi_image .`
+
+Now start the container `docker run -d --name my_fastapi -p 90:80 fastapi_image`
