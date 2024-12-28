@@ -51,3 +51,14 @@ Learning pytorch library.
 - [Modular Pytorch Practice](./Pytorch/Modular/)
 - [Transfer Learning Pytorch](./Pytorch/Transfer%20Learning/)
 - [CNN Pytorch](./Pytorch/CNN/)
+
+## Matplotlib and Seaborn
+
+- [Basic Visualization](./Matplotlib%20and%20Seaborn/01_Matplotlib.ipynb)
+
+## Pandas
+
+- [Pandas Series](./Pandas/01_Pandas_Series.ipynb)
+- [Pandas DataFrame](./Pandas/02_Pandas_Df.ipynb)
+- [Pandas DataFrame Methods](./Pandas/03_Pandas_df_methods.ipynb)
+- [Pandas Group By](./Pandas/04_Pandas_Group.ipynb)
