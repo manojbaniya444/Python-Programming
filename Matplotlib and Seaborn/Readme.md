@@ -8,7 +8,7 @@ In this folder I am learning about **Matplotlib** and **Seaborn**
 
 ---
 
-## Simple Plot example and Scatter Plot Example
+## Plotting Examples:
 
 <div style="display: flex; justify-content: space-around;gap: 10px">
     <div>

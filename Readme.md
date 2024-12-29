@@ -54,11 +54,19 @@ Learning pytorch library.
 
 ## Matplotlib and Seaborn
 
+Data Visualization library
+
 - [Basic Visualization](./Matplotlib%20and%20Seaborn/01_Matplotlib.ipynb)
 
 ## Pandas
+
+Data Manipulation
 
 - [Pandas Series](./Pandas/01_Pandas_Series.ipynb)
 - [Pandas DataFrame](./Pandas/02_Pandas_Df.ipynb)
 - [Pandas DataFrame Methods](./Pandas/03_Pandas_df_methods.ipynb)
 - [Pandas Group By](./Pandas/04_Pandas_Group.ipynb)
+- [Merges Join and Concatenation](./Pandas/05_Pandas.ipynb)
+- [Multi Index DataFrame](./Pandas/06_Pandas.ipynb)
+- [Pandas String Value](./Pandas/07_Pandas.ipynb)
+- [Pandas DateTime](../Pandas/08_Pandas.ipynb)
