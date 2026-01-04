@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from app.config import Config
 from app.database.connection import db
 import logging
+from app.api.users import users_bp
 
 logger = logging.getLogger(__name__)
 
@@ -10,6 +11,7 @@ def create_app():
   app.config.from_object(Config)
   
   # register the api route
+  app.register_blueprint(users_bp, url_prefix="/api/v1/users")
   
   # add the api
   @app.route("/")
